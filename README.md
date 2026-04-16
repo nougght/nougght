@@ -15,3 +15,9 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nougght" alt="Leetcode Stats" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/nougght">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nougght&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
